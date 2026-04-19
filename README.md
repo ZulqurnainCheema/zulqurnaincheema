@@ -34,7 +34,7 @@ class Zulqurnain:
 | 🍕 [food-delivery-app](https://github.com/ZulqurnainCheema/food-delivery-app) | Order food without leaving your couch | *Full-stack hustle* |
 | 💊 [Medicine-Inventory-System](https://github.com/ZulqurnainCheema/Medicine-Inventory-System) | Keep track of every pill in the pharmacy | *Serious Python energy* |
 | ✅ [Todolist-app](https://github.com/ZulqurnainCheema/Todolist-app) | Because my brain can't hold more than 3 tasks | *JavaScript therapy* |
-| 🔢 [PF-assignments](https://github.com/ZulqurnainCheema/PF-assigments) | Palindromes, patterns & Python puzzles for Dr. Noman | *Academic grind* |
+| 🔢 [PF-assigments](https://github.com/ZulqurnainCheema/PF-assigments) | Palindromes, patterns & Python puzzles for Dr. Noman | *Academic grind* |
 | 🧮 [S24BSEEN1M01138-1ST-3M](https://github.com/ZulqurnainCheema/S24BSEEN1M01138-1ST-3M) | My very first code — born on Replit, raised on GitHub | *Nostalgia hits different* |
 
 ---
