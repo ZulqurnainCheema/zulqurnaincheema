@@ -80,7 +80,11 @@ class Zulqurnain:
     <img src="https://img.shields.io/badge/GitHub-ZulqurnainCheema-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/zulqurnain-cheema/">
+    <img src="https://img.shields.io/badge/GitHub-ZulqurnainCheema-181717?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 <p align="center">
   <i>"Code is like humour. When you have to explain it, it's bad." — Cory House</i><br/>
   <i>(But I still add comments, just in case 😄)</i>
