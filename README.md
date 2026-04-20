@@ -82,7 +82,7 @@ class Zulqurnain:
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/zulqurnain-cheema/">
-    <img src="https://img.shields.io/badge/GitHub-ZulqurnainCheema-181717?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Zulqurnain%20Cheema-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 <p align="center">
